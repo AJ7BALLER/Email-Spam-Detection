@@ -5,12 +5,10 @@ This repository contains a machine learning project aimed at detecting spam emai
 
 ### 1. Project Overview
 ### 2. Dataset
-### 3. Installation
-### 4. Usage
-### 5. Modelling
-### 6. Evaluation
-### 7. Contributing
-### 8. License
+### 3. Modelling
+### 4. Evaluation
+### 5. Contributing
+### 6. License
 
 # Project Overview
 The goal of this project is to build a model that can accurately classify emails as either spam or not spam. This is accomplished by analyzing various features extracted from email texts and utilizing machine learning algorithms to make predictions.
